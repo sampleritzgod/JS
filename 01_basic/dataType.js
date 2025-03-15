@@ -11,3 +11,4 @@
 // typeof() - type of data
 // array
 // null is object 
+
